@@ -1,0 +1,15 @@
+
+Competencies
+
+Rails is a web app framework for Ruby that packages many common application functions “out the box” so developers do not have to spend time on it
+This way, you can actually get a rails app up and running quite quickly
+Rails is very “opinionated”, there is a “right” way to do things in Rails as opposed to Sinatra
+Rails has great documentation thanks to a robust and active community, it would behoove you to take advantage
+
+Applications
+Transition from Sinatra to Rails
+Begin to develop applications in Rails
+
+
+Resources:
+http://guides.rubyonrails.org/getting_started.html
