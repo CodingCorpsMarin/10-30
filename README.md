@@ -30,3 +30,5 @@ Cesar , Alan
 
 
 
+## For Next Time
+Flatiron Rails Models Basics & Intro to REST
